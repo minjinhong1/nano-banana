@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana 이미지 생성기",
+  "description": "한국어 프롬프트와 다양한 스타일 옵션을 사용하여 Nano Banana (gemini-2.5-flash-image-preview) 모델로 고품질 이미지를 생성하는 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
